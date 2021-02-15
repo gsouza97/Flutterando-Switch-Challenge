@@ -16,7 +16,6 @@ class NintendoScreen extends StatefulWidget {
 class _NintendoScreenState extends State<NintendoScreen> {
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.of(context).size;
     return Scaffold(
       backgroundColor: Colors.white,
       body: Column(

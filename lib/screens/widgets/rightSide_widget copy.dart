@@ -5,9 +5,7 @@ import 'package:nintendo_swt/screens/widgets/buttons/homeButton_widget.dart';
 import 'package:nintendo_swt/screens/widgets/buttons/plusButton_widget.dart';
 
 import 'buttons/bigButton_widget.dart';
-import 'buttons/digitalDirectional_widget.dart';
-import 'buttons/minusButton_widget.dart';
-import 'buttons/soundButton_widget.dart';
+
 
 class RightSide extends StatelessWidget {
   @override
